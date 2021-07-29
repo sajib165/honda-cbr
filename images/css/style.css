@@ -1,0 +1,30 @@
+.text{
+  color:white;
+}
+.fw{
+  color:wheat;
+}
+.feature-img{
+  filter:grayscale(100%)
+}
+.lal{
+  color: black;
+}
+.nil{
+  color: coral;
+}
+.card-img-top{
+  width: 149px;
+  height: 149px;
+
+
+}
+.copy{
+  color: rgb(175, 161, 150);
+}
+.miles{
+  color: deepskyblue;
+}
+.pori{
+  color: goldenrod;
+}
